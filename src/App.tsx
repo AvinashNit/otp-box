@@ -10,7 +10,7 @@ export function App()
                
     
     }
-    <div className={` fixed -translate-x-full w-64 h-screen md:translate-x-0 ${open ? "translate-x-0": "-translate-x-full"} bg-blue-500 p-4 z-60`}>
+    <div className={` transition-transform duration-300 fixed  w-64 h-screen md:translate-x-0 ${open ? "translate-x-0": "-translate-x-full"} bg-blue-500 p-4 z-60`}>
       <ul className="list-none">
         <li>
           <a href="/">Home</a>
