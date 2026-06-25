@@ -4,7 +4,7 @@ export function Navbar()
         <div className="mx-0 md:mx-4 flex flex-col justify-center">
                 <div className="hidden  justify-between lg:flex">
                     <div>
-                        <a href="" className=" w-20 px-2 ml-2 text-center text-2xl">100Xdevs</a>
+                        <a href="" className=" w-20 px-2 ml-2 text-center text-2xl ">100Xdevs</a>
                         <a href="" className=" w-20 px-2  ml-2 text-center text-xl">Home</a>
                         <a href="" className=" w-20 px-2  ml-2 text-center text-xl">Courses</a>
                         <a href="" className=" w-20 px-2  ml-2 text-center text-xl">Store</a>
